@@ -9,6 +9,7 @@ DABCE
 
 
 Example of data input:
+
 D E C B A
 A B C D E
 D E C B A
